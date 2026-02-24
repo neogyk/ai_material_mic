@@ -1,0 +1,8 @@
+{
+  "name": "SEM Material Agent",
+  "description": "An agentic AI application for material science professionals to search, identify, and analyze Scanning Electron Microscopy (SEM) imagery using advanced generative models.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
